@@ -1,4 +1,4 @@
-# Documentation
+# SvelteKit with Static Adapter for GitHub Pages
 
 [Static => Static](https://kit.svelte.dev/docs/adapter-static)
 
